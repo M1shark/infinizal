@@ -28,12 +28,8 @@ const t=t=>"object"==typeof t&&null!==t&&t.constructor===Object&&"[object Object
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _functions_burger__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./functions/burger */ "./src/js/functions/burger.js");
-/* harmony import */ var _fancyapps_ui__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @fancyapps/ui */ "./node_modules/@fancyapps/ui/dist/fancybox.esm.js");
-/* harmony import */ var _components_cosomize__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/cosomize */ "./src/js/components/cosomize.js");
-/* harmony import */ var _components_cosomize__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_cosomize__WEBPACK_IMPORTED_MODULE_2__);
-
-
+/* harmony import */ var _components_cosomize__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/cosomize */ "./src/js/components/cosomize.js");
+/* harmony import */ var _components_cosomize__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_components_cosomize__WEBPACK_IMPORTED_MODULE_0__);
 
 
 /***/ }),
@@ -734,6 +730,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _functions__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./_functions */ "./src/js/_functions.js");
 /* harmony import */ var _components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./_components */ "./src/js/_components.js");
 /* harmony import */ var _fancyapps_ui__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @fancyapps/ui */ "./node_modules/@fancyapps/ui/dist/fancybox.esm.js");
+/* harmony import */ var _functions_burger__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./functions/burger */ "./src/js/functions/burger.js");
+
 
 
 
